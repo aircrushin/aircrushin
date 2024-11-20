@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm aircrushin
 
-### check my new product -- AI prompt generator[promptate](https://www.promptate.xyz/)
+### check my new product -- AI prompt generator: [promptate](https://www.promptate.xyz/)
 
 
 - 🔭 I’m currently working remotely in AI industry
